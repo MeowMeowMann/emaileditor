@@ -1,0 +1,30 @@
+
+
+.NonEditableItemContainer{
+    
+    height: 6rem;
+    width: 7rem;
+    margin: 3px;
+    Display:flex;
+    flex-wrap: wrap;
+}
+
+.NonEditableItems{
+    Display:flex;
+    flex-wrap: wrap;
+}
+
+
+
+.NonEditableItemCard{
+    height: 4rem;
+    width: 4rem;
+    margin: 2px;
+    
+}
+
+
+
+
+
+

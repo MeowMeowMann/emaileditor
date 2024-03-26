@@ -1,0 +1,37 @@
+
+  .dropContainer {
+    margin-left: 1vh;
+    /* margin-top: 1.35vh; */
+    height:97.125vh;
+    border: 1px solid black;
+    border-radius: 2px;
+    background-color:rgb(233, 240, 240);
+  }
+
+  .dropTitle {
+    padding: 8px;
+    text-align: center;
+    
+  }
+  
+  .dropTitleRow {
+    width: 100%;
+    overflow: hidden;
+
+  }
+
+  .dropElementRow {
+    width: 100%;
+    overflow: hidden; 
+    min-height: 83.8vh;
+  }
+  
+  .dropObjectList {
+    padding: 8px;
+    display:block;
+  }
+  
+
+
+ 
+  

@@ -1,0 +1,51 @@
+
+
+  #div1,
+  #div2
+  {
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    width: 20rem;
+    border: 1px solid black;
+  }
+   
+  .container
+  {
+    display: flex;
+    padding: 0px !important;
+    width:auto;
+    overflow:auto
+  }
+   
+  .block
+  {
+    width: 33.3%;
+    height: 100px;
+    background-color: lightblue;
+    border: 1px solid black;  
+    /* resize: both;  */
+    overflow: auto;
+  }
+   
+  .block2
+  {
+    width: 50%;
+    height: 100px;
+    background-color: lightblue;
+    border: 1px solid black;  
+    /* resize: both;  */
+    overflow: auto;
+  }
+   
+  .block1
+  {
+    width: 4rem;
+    height: 4rem;
+    margin:8px;
+    background-color: lightblue;
+    border: 1px solid black;  
+    /* resize: both;  */
+    overflow: auto;
+  }
+  

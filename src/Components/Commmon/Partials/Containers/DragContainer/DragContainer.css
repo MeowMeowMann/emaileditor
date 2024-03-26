@@ -1,0 +1,39 @@
+
+
+.dragContainer {
+    margin: 0px;
+    /* height:97.25vh; */
+    /* border: 1px solid black; */
+    /* border-radius: 2px; */
+    overflow: hidden;
+    /* background-color:rgb(233, 240, 240); */
+    
+
+  }
+
+  .dragTitle {
+    padding: 8px;
+    text-align: center;
+    
+  }
+  
+  .dragTitleRow {
+    width:100%;
+    overflow:hidden; 
+  }
+
+  .dragElementRow {
+    width: 100%;
+    overflow: hidden; 
+    min-height: 83.8vh;
+    transform: none !important;
+
+  } 
+  
+  .dragObjectList{
+    padding: 8px;
+    display:flex;
+
+  } 
+
+
